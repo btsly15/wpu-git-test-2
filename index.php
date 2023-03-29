@@ -9,6 +9,10 @@
 <body>
     <h1>ini title</h1>
     <p>hello world</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
     
 </body>
 </html>
