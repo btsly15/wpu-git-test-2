@@ -7,6 +7,8 @@
     <title>Coba git remote dari local</title>
 </head>
 <body>
+    <h1>ini title</h1>
+    <p>hello world</p>
     
 </body>
 </html>
